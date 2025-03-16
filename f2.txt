@@ -1,0 +1,6 @@
+DEVOPS LIFE CYCLE::
+1.Planning
+2.Development
+3.Feedback
+4.Continuous Integration
+5.Monitoring etc
